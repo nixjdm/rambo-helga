@@ -1,0 +1,5 @@
+.rambo-tmp/
+.vagrant/
+my_rambo.conf
+auth/
+my_settings.py

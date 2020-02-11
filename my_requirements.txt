@@ -1,0 +1,27 @@
+# Assumes pip==9.0.3 and python 2.7
+
+cffi
+decorator==3.4.0
+pymongo
+pyOpenSSL
+pystache==0.5.4
+smokesignal
+Twisted
+requests
+
+service-identity
+autobahn==19.11.2
+markovify==0.6.0
+tweepy==3.6.0
+
+helga-alias
+helga-facts
+helga-flip
+helga-markovify
+# helga-mimic
+helga-poems
+helga-stfu
+helga-twitter
+helga-zen
+helga-yelling
+helga-oneliner
