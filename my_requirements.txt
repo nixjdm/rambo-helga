@@ -10,7 +10,7 @@ Twisted
 requests
 
 service-identity
-autobahn==19.11.2
+autobahn==20.12.3
 markovify==0.6.0
 tweepy==3.6.0
 
