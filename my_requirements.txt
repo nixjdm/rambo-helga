@@ -27,3 +27,5 @@ helga-yelling
 helga-oneliner
 helga-meant-to-say
 helga-karma
+helga-quip
+helga-reminders

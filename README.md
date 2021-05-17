@@ -38,7 +38,7 @@ To run:
 
 Feel free to close the ssh session and not worry about it anymore.
 
-If something is ever amiss, you can `ssh` back in and run `sreen -r helga` to attach to the screen session. You might be able to see debug info there.
+If something is ever amiss, you can `ssh` back in and run `screen -r helga` to attach to the screen session. You might be able to see debug info there.
 
 If anything is wrong, it's fairly likely that you need to (re)start the mongo db service. Do this with:
 ```bash
